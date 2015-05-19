@@ -1,1 +1,1 @@
-https://git.heroku.com/rocky-dusk-1131.git
+https://rocky-dusk-1131.herokuapp.com
